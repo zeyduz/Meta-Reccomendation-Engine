@@ -1,0 +1,11 @@
+product_id,name,category,description
+QUEST_3,Meta Quest 3 VR Headset,VR/AR,Next‑generation standalone virtual‑reality headset with high‑resolution mixed‑reality passthrough and Snapdragon XR2 Gen 2 performance.
+QUEST_PRO,Meta Quest Pro,VR/AR,"Premium mixed‑reality headset featuring pancake optics, full‑color passthrough, face/eye tracking, and self‑tracking controllers."
+PORTAL_GO,Meta Portal Go Smart Display,Smart Display,"Portable 10"" video‑calling display with Smart Camera auto‑framing, immersive sound, and Alexa built in."
+RAY_BAN_META,Ray‑Ban Meta Smart Glasses,Wearable,"Stylish smart glasses that capture photos, 1080p video, and livestream directly to Instagram and Facebook with open‑ear audio."
+WHATSAPP_API,WhatsApp Business API,Messaging,"Cloud‑hosted API enabling companies to send notifications, customer‑support messages, and verified push updates at scale over WhatsApp."
+MESSENGER_PLATFORM,Messenger Platform,Messaging,"Tools and APIs that let developers build bots, rich chat experiences, and customer service workflows inside Facebook Messenger."
+INSTAGRAM_SHOP,Instagram Shopping,Social Commerce,"Seamless in‑app storefronts that let brands tag products in posts, launch collections, and drive checkout directly on Instagram."
+HORIZON_WORKROOMS,Meta Horizon Workrooms,Collaboration,"VR collaboration app offering spatial audio, desk passthrough, remote desktop streaming, and realistic avatars for hybrid teams."
+META_AI,Meta AI (Llama‑powered),AI,"Conversational assistant built on Meta’s Llama models, available across WhatsApp, Instagram, and Messenger for creative and productivity tasks."
+ADVANTAGE_SHOPPING,Advantage+ Shopping Campaigns,Ads Automation,"Machine‑learning‑driven campaign type that automatically optimizes targeting, creatives, and placements to maximize conversion value."
